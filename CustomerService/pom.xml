@@ -4,11 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.tibco.bw</groupId>
-    <artifactId>AccountService.parent</artifactId>
+    <artifactId>CustomerService.parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <relativePath>../AccountService.parent</relativePath>
+    <relativePath>../CustomerService.parent</relativePath>
   </parent>
-  <artifactId>AccountService</artifactId>
+  <artifactId>CustomerService</artifactId>
   <packaging>bwear</packaging>
   <properties>
     <skipTests>false</skipTests>
